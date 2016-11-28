@@ -1,3 +1,6 @@
+Example: http://tympanus.net/Development/LetterEffects/
+
+
 # [anime.js](http://anime-js.com) ![](https://badge-size.herokuapp.com/juliangarnier/anime/master/anime.min.js?&color=319BFF)
 *Anime* `(/ˈæn.ə.meɪ/)` is a flexible yet lightweight JavaScript animation library.  
 It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
